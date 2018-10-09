@@ -4,12 +4,12 @@ gh-pages
 
 ## Welcome to README FILE ##
 
-###HELLO,~~World~~ Readers!###
+### HELLO,~~World~~ Readers! ###
 
 
 **This is  _test project_**.
 
-####The landing page  has 5 sections####
+#### The landing page  has 5 sections ####
 
 It is:
 - header
